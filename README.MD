@@ -1,5 +1,5 @@
 # Lobby crasher:
-Lobby crasher for League Of Legends, commited to work from 13.20 to 14.1.
+Lobby crasher for League Of Legends, commited to work from 13.20 to 14.3.
 
 # Requirements:
 | Prerequisite               | Description       |
